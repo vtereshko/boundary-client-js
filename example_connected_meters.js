@@ -1,4 +1,4 @@
-indow.onload = function () {
+window.onload = function () {
 
   var meterStatusData = bndry.dataSource.create('meter_status'),
       subscription = null;
